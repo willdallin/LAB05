@@ -1,0 +1,26 @@
+# ninja log v5
+41	431	7536799165041962	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj	8b7caae2c606f4fe
+56	752	7536799168675526	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	bacfe0f061aa3e8e
+4	764	7536799168385979	CMakeFiles/LAB005-ADC1.dir/Core/Src/main.c.obj	e518c1f4527f56c8
+23	781	7536799168836720	CMakeFiles/LAB005-ADC1.dir/Core/Src/stm32f4xx_hal_msp.c.obj	e8d4d87cc4e5c32d
+9	787	7536799168993823	CMakeFiles/LAB005-ADC1.dir/Core/Src/stm32f4xx_it.c.obj	90e80dbfe25690c7
+60	794	7536799168766622	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	e9a17307e217fbe2
+33	884	7536799169669684	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj	ddc4bfcc500a74b2
+51	962	7536799170539593	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	d34d0f8e69cee184
+66	968	7536799170662556	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	5a473b61d48185f3
+28	1033	7536799170868861	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj	d1c1c30632762150
+432	1383	7536799174610296	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	25d06d60ff343235
+753	1646	7536799177324067	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	ec1311817935d757
+781	1708	7536799177318981	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	9fef1b8028872ffa
+787	1725	7536799177670433	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	b398e34f516ebe84
+764	1731	7536799177931251	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	b52e1189d7b6c7b2
+795	1757	7536799178574190	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	680dc30a4a4d3d20
+884	2018	7536799180623417	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	3d40fac5022c4091
+1732	2046	7536799181737777	CMakeFiles/LAB005-ADC1.dir/startup_stm32f411xe.s.obj	9bfdfe6c40655da8
+1708	2079	7536799182036411	CMakeFiles/LAB005-ADC1.dir/Core/Src/sysmem.c.obj	a0503805fb7c02e
+962	2085	7536799182036411	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	912ec2b1a6053f99
+968	2144	7536799182664914	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	46ca0a5db58458e9
+1725	2196	7536799183200380	CMakeFiles/LAB005-ADC1.dir/Core/Src/syscalls.c.obj	3ec4b1338de31885
+1646	2281	7536799184211630	CMakeFiles/LAB005-ADC1.dir/Core/Src/system_stm32f4xx.c.obj	db22f8eef260a472
+1383	2342	7536799184731009	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	235b0f9cad6871ec
+1034	2344	7536799184731009	CMakeFiles/LAB005-ADC1.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	ba07aa2dc2f61ab7

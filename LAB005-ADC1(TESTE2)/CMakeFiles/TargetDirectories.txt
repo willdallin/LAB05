@@ -1,0 +1,5 @@
+C:/Users/willi/Documents/LAB05/LAB005-ADC1/CMakeFiles/LAB005-ADC1.dir
+C:/Users/willi/Documents/LAB05/LAB005-ADC1/CMakeFiles/edit_cache.dir
+C:/Users/willi/Documents/LAB05/LAB005-ADC1/CMakeFiles/rebuild_cache.dir
+C:/Users/willi/Documents/LAB05/LAB005-ADC1/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/willi/Documents/LAB05/LAB005-ADC1/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
